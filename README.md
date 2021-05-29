@@ -1,16 +1,17 @@
-### Hi there 👋
+#### Welcome to visit here  👋
 
-<!--
-**HonorJay/honorjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Let me introduce myself, My name is **Lee Ji-hun**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and I studied [Creative Writing and Media Studies] in Korean Univ.
+But, recently I learn about Python and AI(like ML or DL) it is why I started to use Git here.
+
+I hope I can get various things from here. and you guys either.
+enjoy your exploring my git. 
+
+- 🔭 I’m not working yet ... currently I'm still studying. I'm so sorry for it.
+- 🌱 as i siad I’m currently learning about Python and AI. 
+- 🤔 I’m looking for help with Coding and Kaggle.
+- 💬 Ask me about Everything if you want to know. 
+- 📫 How to reach me: tuso764@korea.ac.kr <-- this is my e-mail. 
+- ⚡ Fun fact: I'm thirty years old in korea ;)
