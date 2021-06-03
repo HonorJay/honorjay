@@ -1,0 +1,71 @@
+def solution(new_id):
+    
+    usable_list = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","0","1","2","3","4","5","6","7","8","9","-","_","."]
+    
+    step1 = new_id.lower()
+    step2 = ""
+    ls1 = len(step1)
+    
+    for i in range(ls1):
+        if step1[i] in usable_list:
+            step2 += step1[i]
+    
+    step3 = step2
+    
+    if step3.count("..") > 0:
+        while step3.count("..") > 0:
+            if step3.count("..") == 0:
+                break
+            else:
+                step3 = step3.replace("..", ".")
+    
+    step4 = step3
+    
+    if step3[0] == ".":
+        if len(step3) == 1:
+            step4 = " "
+        else:
+            step4 = step3[1:]
+    else:
+        step4 = step3
+    
+    step4r = step4
+    
+    if step4[-1] == ".":
+        if len(step4) == 1:
+            step4r = " "
+        else:
+            step4r = step4[:-1]
+    else:
+        step4r = step4
+    
+    step5 = step4r
+    
+    if step4r == " ":
+        step5 = "a"
+    else:
+        step5 = step4r
+    
+    step6 = step5
+    
+    if len(step5) > 15:
+        step6 = step5[:15]
+    else:
+        step6 = step5
+    
+    step6r = step6
+    
+    if step6[-1] == ".":
+        step6r = step6[:-1]
+    else:
+        step6r = step6
+        
+    step7 = step6r
+    
+    if len(step6r) < 3:
+        while len(step7) < 3:
+            step7 += step6r[-1]
+            
+    answer = step7
+    
+    return answer
