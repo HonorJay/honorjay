@@ -1,4 +1,4 @@
-#### Welcome to visit here  👋
+#### Good to see you here  👋
 
 
 #### Let me introduce myself, My name is **Lee Ji-hun**
