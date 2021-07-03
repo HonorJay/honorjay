@@ -1,7 +1,7 @@
 #### Good to see you here  👋
 
 
-#### Let me introduce myself, My name is **Lee Ji-hun**
+#### Let me introduce myself, My name is **Lee Ji-hun** from south korea
 
 and I studied [Creative Writing and Media Studies] in Korean Univ.
 But, recently I learn about Python and AI(like ML or DL) it is why I started to use Git here.
