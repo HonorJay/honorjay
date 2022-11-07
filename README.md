@@ -3,7 +3,7 @@
 
 #### Let me introduce myself, My name is **Lee Ji-hun** from south korea
 
-recently I started to learn about Python and AI(like ML or DL). it is why I'm here now.
+since march in 2021, I started to learn about Python and AI(like ML or DL). it is why I'm here now.
 
 I hope I can get various things with you guys. and you guys either from me.
 
